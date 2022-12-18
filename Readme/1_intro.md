@@ -40,15 +40,6 @@ https://chrome.google.com/webstore/detail/github-markdown-printer/fehpdlpmcegfpb
 - Apps dir
     - http://localhost/fusio/public/apps
 
-- Login details
-    - TechRad
-        - user: admin
-        - email: cale@techrad.co.za
-        - pass: f_YZunexxnJ0l97SKKsV
-    - Iq-blue
-        - user: admin
-        - email: api@iq-blue.com
-        - Pass: JomQRnX7G8MEECdvM4D4
 
 - chrome app [Yet Another REST Client]
   - https://chrome.google.com/webstore/detail/yet-another-rest-client/ehafadccdcdedbhcbddihehiodgcddpl
