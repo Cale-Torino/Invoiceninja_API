@@ -1,4 +1,4 @@
-![Logo](img/logosmblack.png)
+![Logo](img/logotech.png)
 
 ---
 
